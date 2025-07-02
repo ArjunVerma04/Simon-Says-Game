@@ -6,7 +6,7 @@ A fun, interactive **memory game** built using HTML, CSS, and JavaScript. Test h
 
 ## 🔗 Live Demo
 
-👉 [Play Simon Says](https://your-deployment-link.com)
+👉 [Play Simon Says](https://arjunverma04.github.io/Simon-Says-Game/)
 
 ---
 
@@ -22,9 +22,10 @@ A fun, interactive **memory game** built using HTML, CSS, and JavaScript. Test h
 
 ## 📸 Screenshots
 
-| Start Screen | Gameplay | Game Over |
-|--------------|----------|-----------|
-| ![Start](./assets/start.png) | ![Gameplay](./assets/playing.png) | ![Game Over](./assets/gameover.png) |
+| 🚀 Start Screen | 🎮 Gameplay | 💀 Game Over |
+|----------------|-------------|--------------|
+| 🟢 Press any key to start | 🔁 Follow the pattern | ❌ Wrong input ends the game |
+
 
 ---
 
@@ -36,5 +37,6 @@ A fun, interactive **memory game** built using HTML, CSS, and JavaScript. Test h
 
 ---
 
-## 📁 Project Structure
+Built by 𝓐𝓻𝓳𝓾𝓷 𝓥𝓮𝓻𝓶𝓪
+Inspired by the classic Simon Game.
 
